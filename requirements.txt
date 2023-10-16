@@ -1,0 +1,6 @@
+flask
+pythainlp
+thaispellcheck
+flask-cors
+numpy
+transformers
